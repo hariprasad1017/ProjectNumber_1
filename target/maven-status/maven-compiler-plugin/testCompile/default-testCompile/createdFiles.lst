@@ -1,0 +1,6 @@
+com\invigo\utilites\ReadConfig.class
+com\invigo\testCases\BaseClass.class
+com\invigo\testCases\TC_AddCustomerTest_002.class
+com\invigo\pageObjects\LoginPage.class
+com\invigo\testCases\TC_LoginPage_001.class
+com\invigo\pageObjects\AddCustomerpage.class
